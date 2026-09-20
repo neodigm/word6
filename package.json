@@ -20,5 +20,7 @@
     "url": "https://github.com/neodigm/is-ecom-labs/issues"
   },
   "homepage": "https://github.com/neodigm/is-ecom-labs#readme",
-  "dependencies": {}
+  "dependencies": {
+    "@machfivetechchicago/machvive-webmcp-ai": "^5.7.0"
+  }
 }
